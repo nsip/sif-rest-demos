@@ -1,0 +1,9 @@
+<sif:student xmlns:sif="http://www.sifassociation.org/datamodel/global/3.0">
+  <localId>Manual1</localId>
+  <name nameRole="NotSure">
+    <nameOfRecord>
+      <familyName>Manual One</familyName>
+      <givenName>Given One</givenName>
+    </nameOfRecord>
+  </name>
+</sif:student>
