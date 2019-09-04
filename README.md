@@ -1,4 +1,4 @@
-# Project Name
+# SIF REST Demos
 
 SIF REST Demos and Code Snippets
 
@@ -50,7 +50,6 @@ Please first discuss any contrib you wish to make via github issue in this repos
 Please follow our code of conduct.
 
 ## Pull Request Process
-
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
